@@ -1,0 +1,7 @@
+# Insurance Assistance Chatbot - Setup Instructions
+
+
+## Requirements
+
+- Python 3.x
+- Groq API key
